@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vignesh Bharadwaj
 - 👀 I’m interested in digital logic design, RTL design, computer architecture and digital VLSI design
 - 🌱 I’m currently working in the VLSI industry
-- 💞️ I’m looking to collaborate on RTL projects
 - 📫 You can reach me through my email: vicky089f@gmail.com or message me on linkedin: [Vingesh Bharadwaj](https://www.linkedin.com/in/vignesh-bharadwaj-6640781aa/)
 
 <!---
